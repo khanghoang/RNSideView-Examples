@@ -12,7 +12,7 @@ Clone this repo and take a look of the **index.ios.js**
 # Usage
 
 ```javascript
-var SideMenu = require('./SideMenu.js');
+var SideMenu = require('sidemenu');
 
 global.sideMenu = 
       <SideMenu
